@@ -1,0 +1,11 @@
+{
+  "name": "nghuffman",
+  "version": "1.0.1",
+  "description": "Angular JS implementation of the Huffman encoding technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajayogan",
+  "license": "MIT"
+}
